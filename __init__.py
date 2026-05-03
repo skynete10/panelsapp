@@ -1,0 +1,1 @@
+self.show_panel_names_flag = True

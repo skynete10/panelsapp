@@ -1,0 +1,24 @@
+Before installation, make sure you have:
+
+Python 3.11 installed
+pip (comes with Python)
+
+Recommended: Miniconda
+
+#######################################
+Installation
+Download the project
+Extract or clone the project folder.
+Create virtual environment
+
+Windows:
+
+python -m venv venv
+venv\Scripts\activate
+
+Linux / macOS:
+
+python3 -m venv venv
+source venv/bin/activate
+
+pip install -r requirements.txt
